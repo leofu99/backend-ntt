@@ -1,0 +1,17 @@
+{
+  "name": "ntt-tecnical-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=config.env index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "REST API for NTT Technical Test",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {}
+}
